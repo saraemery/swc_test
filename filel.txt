@@ -3,3 +3,5 @@ manuscript outline
 My first file
 
 
+Another new line
+Added a sentence in my new branch
